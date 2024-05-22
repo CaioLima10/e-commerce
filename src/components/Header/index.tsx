@@ -11,7 +11,7 @@ export function Header() {
           <Link href={"/"} className="hover:tracking-wide duration-300">
             <h1 className="text-green-500 hidden sm:flex items-center justify-center font-bold text-xl">
               <CiShop size={26} className="text-green-500" />
-              Market cell
+              Market Electronics
             </h1>
             <CiShop size={32} className="text-green-500 flex sm:hidden" />
           </Link>
